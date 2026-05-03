@@ -147,13 +147,12 @@ pytest tests/ -v
 
 ## 🌐 Live Demo
 
-**App:** https://electiq-frontend-441154146170.us-central1.run.app
+**App:** https://electiq-frontend-441154146170.us-central1.run.app/
 
 **Backend API Docs:** https://electiq-backend-441154146170.us-central1.run.app/docs
 
 > The app may take ~10 seconds to wake up on first visit (Cloud Run scales to zero).
 
-
 ## License
 
-MIT — Built for the hackathon. Civic data sourced from public US government information.
+Built for the hackathon. Civic data sourced from public US government information.
